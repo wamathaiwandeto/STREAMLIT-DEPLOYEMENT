@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd
+import pandas as pdp
 
 st.set_page_config(
     page_title="Customer Churn Hinter",
